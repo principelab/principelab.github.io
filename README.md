@@ -3,6 +3,11 @@
 
 Welcome to our GitHub page!
 
+Members:
+- Karla Ivankovic
+- Justo Montoya-Gálvez
+- Alessandro Principe
+
 Feel free to explore our projects:
 
 - [EpiRev](https://github.com/principelab/epirev) — Methods for Identifying Epilepsy Surgery Targets Using Invasive EEG: A Systematic Review [Biomedicines 2024, 12(11), 2597](https://doi.org/10.3390/biomedicines12112597)
